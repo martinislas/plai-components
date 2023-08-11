@@ -1,3 +1,9 @@
+# React Components for PLAI 2.0
+Nav 
+Form
+Footer
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
